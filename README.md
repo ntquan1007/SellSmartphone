@@ -1,4 +1,4 @@
-Tất nhiên, dưới đây là một phân tích chi tiết hơn về cấu trúc và tính năng cơ sở dữ liệu quản lý bán hàng:
+phân tích chi tiết hơn về cấu trúc và tính năng cơ sở dữ liệu quản lý bán hàng:
 
 Sản phẩm:
 
